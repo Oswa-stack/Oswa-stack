@@ -3,8 +3,7 @@
 🔐 BSc Cybersecurity Student @ Bahauddin Zakariya University, Multan  
 🎯 Aspiring Bug Bounty Hunter | Security Researcher | Ethical Hacker  
 🛠️ Building offensive security tools in C++ and Bash  
-🌍 Goal: Financial independence through cybersecurity — remotely, in foreign currency  
-
+ 
 ## 🧰 Tools & Skills
 - Languages: C++, Bash
 - Platforms: Kali Linux, DVWA, HackTheBox, TryHackMe
